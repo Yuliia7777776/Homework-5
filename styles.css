@@ -1,0 +1,39 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skils-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+    
+ul.links {
+  display: flex;
+  flex-flow: row nowrap;
+  list-style: none;
+  gap: 30px;
+}
+    
+li {
+  font-family: "Lato", "Montserrat";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000;
+}
+    
+li {
+  font-family: "Lato", "Montserrat";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000;
+}
